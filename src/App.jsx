@@ -53,7 +53,7 @@ function App() {
             <img src="/kkk.png" className="nav-logo" alt="Logo" />
           </div>
 
-          <button className="btn-primary">Pedir Online</button>
+          <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir Online</a>
         </div>
       </nav>
 
@@ -87,7 +87,7 @@ function App() {
               <div className="product-info">
                 <h3 className="product-title">Pan de Jamón</h3>
                 <p className="product-desc">Tradición navideña todo el año: jamón, aceitunas y pasas.</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
               </div>
             </div>
 
@@ -99,7 +99,7 @@ function App() {
               <div className="product-info">
                 <h3 className="product-title">Tequeños</h3>
                 <p className="product-desc">Dedos de queso envueltos en masa crujiente. ¡El rey de las fiestas!</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
               </div>
             </div>
 
@@ -111,7 +111,7 @@ function App() {
               <div className="product-info">
                 <h3 className="product-title">Pan Canilla</h3>
                 <p className="product-desc">La baguette venezolana por excelencia, suave y dorada.</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
               </div>
             </div>
 
@@ -123,7 +123,7 @@ function App() {
               <div className="product-info">
                 <h3 className="product-title">Quesillo</h3>
                 <p className="product-desc">Cremoso postre de leche condensada y caramelo.</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
               </div>
             </div>
 
@@ -135,7 +135,7 @@ function App() {
               <div className="product-info">
                 <h3 className="product-title">Pastelitos</h3>
                 <p className="product-desc">Crujientes discos de masa rellenos de carne, pollo o queso.</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
               </div>
             </div>
 
@@ -148,7 +148,7 @@ function App() {
               <div className="product-info">
                 <h3 className="product-title">Pasticho</h3>
                 <p className="product-desc">Lasaña venezolana con mucha salsa bechamel, queso y jamón.</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-primary">Pedir ahora</a>
               </div>
             </div>
           </div>
@@ -192,7 +192,7 @@ function App() {
                   <li><span>Pan de manjar con queso</span></li>
                   <li><span>Catalinas</span></li>
                 </ul>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-secondary-outline">Pedir Surtido</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-secondary-outline">Pedir Surtido</a>
               </div>
             </div>
 
@@ -219,7 +219,7 @@ function App() {
               </div>
               <div className="category-body">
                 <p className="category-description">Estrellas de sabor: suave masa dulce rellena con auténtico queso artesanal.</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-secondary-outline">Pedir Ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-secondary-outline">Pedir Ahora</a>
               </div>
             </div>
 
@@ -246,7 +246,7 @@ function App() {
               </div>
               <div className="category-body">
                 <p className="category-description">El equilibrio perfecto: melado de papelón y lluvia de queso llanero rallado.</p>
-                <a href="https://wa.me/525512345678" target="_blank" rel="noopener noreferrer" className="btn-secondary-outline">Pedir Ahora</a>
+                <a href="https://wa.me/51918283628" target="_blank" rel="noopener noreferrer" className="btn-secondary-outline">Pedir Ahora</a>
               </div>
             </div>
           </div>
@@ -312,7 +312,7 @@ function App() {
               <img src="/kkk.png" alt="EL GUIBOR Logo" style={{ maxHeight: '80px', objectFit: 'contain' }} />
             </div>
             <p>Calle Principal 123, Ciudad de México</p>
-            <p>+52 55 1234 5678 | info@laboulangerie.mx</p>
+            <p>+51 918 283 628 | info@elguibor.pe</p>
             <div className="social-links">
               {/* Add social icons here */}
             </div>
@@ -324,7 +324,7 @@ function App() {
       </footer>
       {/* WhatsApp Floating Button */}
       <a
-        href="https://wa.me/525512345678"
+        href="https://wa.me/51918283628"
         className="whatsapp-float"
         target="_blank"
         rel="noopener noreferrer"
