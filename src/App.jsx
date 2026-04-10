@@ -68,7 +68,7 @@ function App() {
             <div className="hero-content">
               <h1>{slide.title}</h1>
               <p className="hero-subtitle">{slide.subtitle}</p>
-              <button className="btn-primary">Ver Menú</button>
+              <a href="#menu" className="btn-primary">Ver Menú</a>
             </div>
           </div>
         ))}
